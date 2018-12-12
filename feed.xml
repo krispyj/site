@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kj</title>
+    <link>http://kjsite.siteleaf.net/</link>
+    <atom:link href="http://kjsite.siteleaf.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 12 Dec 2018 17:25:06 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Dec 2018 17:25:06 +0000</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+  </channel>
+</rss>
